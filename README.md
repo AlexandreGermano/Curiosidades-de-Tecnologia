@@ -24,12 +24,13 @@ The developed site is one of the exercises/challenges from Module 2 of the HTML5
 - Pseudo-classes, como :hover e :active, que tornam suas páginas mais interativas;
 - Variáveis CSS, que ajudam na organização e manutenção do código;
 - Modelo de caixas (box model), essencial para estruturar e alinhar os elementos da sua página com precisão e eficiência.
+- Utilização de Ferramentas externas 
 
 ## Tecnologias Utilizadas / Technologies Used
 
 - HTML5
 - CSS3 (com uso de variáveis CSS, fontes personalizadas e media queries)
-- - Adobe Colors
+- Adobe Colors
 
 ## Como Visualizar / How to View
 
